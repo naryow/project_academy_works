@@ -1,2 +1,3 @@
 # project_academy_works
-27.07.2024 stack, queue и list  -  (https://github.com/naryow/project_academy_works/tree/95953dcdfd087fa4788a91bcd3fb761991dc7f6c/stack%2C%20queue%20%D0%B8%20list)
+27.07.2024 stack, queue и list  -  (https://github.com/naryow/project_academy_works/tree/95953dcdfd087fa4788a91bcd3fb761991dc7f6c/stack%2C%20queue%20%D0%B8%20list)<br>
+29.07.2024 methods_removes_list - (https://github.com/naryow/project_academy_works/blob/be998b8f4eb452703959f51bb0bde7b726a6abb0/method_removes_list.cpp)<br>
