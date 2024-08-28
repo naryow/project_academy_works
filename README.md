@@ -4,3 +4,4 @@
 01.08.2024 Tree_roots - (https://github.com/naryow/project_academy_works/blob/0f5b8dd65a4f25206a47af91ad81c5219a268375/Tree_root.png) <br>
 03.08.2024 setMapper - (https://github.com/naryow/project_academy_works/blob/38dec2349b51e79ff3e720a70ddac6ed5fee7577/setMapper.cpp) <br>
 05.08.2024 projectAcademy - (https://github.com/naryow/project_academy_works/tree/9878e1b9b9c98adba2ea66dfc66a7fade8e0c236/project_academy2) <br>
+AbstracrtFabric - (https://github.com/naryow/project_academy_works/blob/f947b013da4af1ff540a08d3f14bc8254eeb3590/homeW.cpp ) && Diagramm Class (https://github.com/naryow/project_academy_works/blob/f947b013da4af1ff540a08d3f14bc8254eeb3590/Untitled%20Diagram.drawio%20(1).png) <br>
